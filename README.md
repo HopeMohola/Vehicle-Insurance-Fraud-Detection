@@ -33,40 +33,40 @@ You can use the SQL file in mySQL and the data visualization file in PowerBI.
 2. Power BI
 
 ## 4. Features
-There are 31 features all explained below:
-Month – Month of the accident.
-WeekOfMonth – Which week of the month the accident occurred.
-DayOfWeek – Day of the week the accident occurred.
-Make – Car manufacturer (e.g., Honda, Toyota).
-AccidentArea – Where the accident happened (Urban or Rural).
-DayOfWeekClaimed – Day of the week the claim was filed.
-MonthClaimed – Month the claim was filed.
-WeekOfMonthClaimed – Which week of the month the claim was filed.
-Sex – Gender of the policyholder.
-MaritalStatus – Marital status of the policyholder.
-Age – Age group of the policyholder.
-Fault – Indicates who was at fault (Policyholder or Third Party).
-PolicyType – Type of insurance policy.
-VehicleCategory – Category of the insured vehicle.
-VehiclePrice – Price range of the vehicle.
-FraudFound_P – Indicates if the claim was fraudulent (0 = No, 1 = Yes).
-PolicyNumber – Insurance policy identifier.
-RepNumber – ID of the claims representative or report number.
-Deductible – Amount the policyholder pays before insurance covers the rest.
-DriverRating – Rating of the driver’s risk profile.
-Days_Policy_Accident – Days between policy start and accident date.
-Days_Policy_Claim – Days between policy start and claim date.
-PastNumberOfClaims – Number of previous claims by the policyholder.
-AgeOfVehicle – Age range of the vehicle.
-AgeOfPolicyHolder – Age range of the policyholder.
-PoliceReportFiled – Was a police report filed? (Yes/No).
-WitnessPresent – Was there a witness to the accident? (Yes/No).
-AgentType – Type of insurance agent handling the policy.
-NumberOfSuppliments – Number of additional claim adjustments after initial report.
-AddressChange_Claim – How recently the policyholder changed address.
-NumberOfCars – Number of cars owned by the policyholder.
-Year – Year the claim was recorded.
-BasePolicy – Basic policy package.
+There are 33 features all explained below:
+1. Month – Month of the accident.
+2. WeekOfMonth – Which week of the month the accident occurred.
+3. DayOfWeek – Day of the week the accident occurred.
+4. Make – Car manufacturer (e.g., Honda, Toyota).
+5. AccidentArea – Where the accident happened (Urban or Rural).
+6. DayOfWeekClaimed – Day of the week the claim was filed.
+7. MonthClaimed – Month the claim was filed.
+8. WeekOfMonthClaimed – Which week of the month the claim was filed.
+9. Sex – Gender of the policyholder.
+10. MaritalStatus – Marital status of the policyholder.
+11. Age – Age group of the policyholder.
+12. Fault – Indicates who was at fault (Policyholder or Third Party).
+13. PolicyType – Type of insurance policy.
+14. VehicleCategory – Category of the insured vehicle.
+15. VehiclePrice – Price range of the vehicle.
+16. FraudFound_P – Indicates if the claim was fraudulent (0 = No, 1 = Yes).
+17. PolicyNumber – Insurance policy identifier.
+18. RepNumber – ID of the claims representative or report number.
+19. Deductible – Amount the policyholder pays before insurance covers the rest.
+20. DriverRating – Rating of the driver’s risk profile.
+21. Days_Policy_Accident – Days between policy start and accident date.
+22. Days_Policy_Claim – Days between policy start and claim date.
+23. PastNumberOfClaims – Number of previous claims by the policyholder.
+24. AgeOfVehicle – Age range of the vehicle.
+25. AgeOfPolicyHolder – Age range of the policyholder.
+26. PoliceReportFiled – Was a police report filed? (Yes/No).
+27. WitnessPresent – Was there a witness to the accident? (Yes/No).
+28. AgentType – Type of insurance agent handling the policy.
+29. NumberOfSuppliments – Number of additional claim adjustments after initial report.
+30. AddressChange_Claim – How recently the policyholder changed address.
+31. NumberOfCars – Number of cars owned by the policyholder.
+32. Year – Year the claim was recorded.
+33. BasePolicy – Basic policy package.
 
 ## 5. Contributing
 I will assume that you have cloned the repo. Then create a branch with your full name. Upload any file you might want to add on your branch and the create a pull request, I will merge(I am always monitoring my emails). To avoid merge conflicts, use the same file name I used. I will also add you as a contributor on the readMe ile. Have Fun!
