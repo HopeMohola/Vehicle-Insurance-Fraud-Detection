@@ -77,6 +77,13 @@ CC0: Public Domain
 ## 7. Contact
 Email: motshabimohola@gmail.com
 Kaggle link: https://www.kaggle.com/datasets/shivamb/vehicle-claim-fraud-detection/data
+Please Note: When I downloaded the dataset, it was in the form of a .xls file with 33 features. I saved it as a .csv file and imported it into mySQL. Then from there I created 5 Tables using those features, namely:
+         1. accident
+         2. policy
+         3. policyholder
+         4. time
+         5. vehicle
+I have uploaded the database on this repo and you can use it as you see fit.
 
 ## 8. Contributors
 Motshabi Gope Mohola
