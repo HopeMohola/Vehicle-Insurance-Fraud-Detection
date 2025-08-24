@@ -83,7 +83,7 @@ Please Note: When I downloaded the dataset, it was in the form of a .xls file wi
          3. policyholder
          4. time
          5. vehicle
-I have uploaded the database on this repo and you can use it as you see fit.
+I have uploaded the 5 .csv files on my repo, you can export them to mysql workbench as tables or use them in Power BI.
 
 ## 8. Contributors
 Motshabi Gope Mohola
